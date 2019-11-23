@@ -4,6 +4,9 @@
   "private": true,
   "main": "src/index.js",
   "license": "MIT",
+  "bin": {
+    "cli-boilerplate": "src/index.js"
+  },
   "scripts": {
     "start": "node src/index.js"
   }
